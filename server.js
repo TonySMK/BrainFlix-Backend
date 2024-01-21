@@ -1,5 +1,6 @@
 const express = require("express");
 const app = express();
+require("dotenv").config();
 const port = process.env.PORT || 8081;
 
 const altRoute = require("./routes/videos");
@@ -8,6 +9,8 @@ const altRoute = require("./routes/videos");
 console.log(port);
 
 app.use("/", altRoute);
+
+//---------------------------------------------------------------
 
 app.get("/", (req, res) => {
   res.send("we are currently connected!");
@@ -20,6 +23,8 @@ app.get("/endpoint1", (req, res) => {
 app.get("/endpoint2", (req, res) => {
   res.send("this is endpoint2 !!!!+");
 });
+
+//---------------------------------------------------------------
 
 app.listen(port, () => {
   console.log(`listening to ${port} right now!!!`);
