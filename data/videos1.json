@@ -1,96 +1,97 @@
-{
-  "side": {
-    "VROOLYJIBOSGYRSXTAAFDINPYFDLJQ": {
+[
+  [
+    {
       "id": "VROOLYJIBOSGYRSXTAAFDINPYFDLJQ",
       "title": "BMX Rampage: 2021 Highlights",
       "channel": "Red Cow",
       "image": "http://localhost:8080/images/image0.jpeg"
     },
-    "GSPTDLNJGPAABNKXOSTXPFVKXHOTPT": {
+    {
       "id": "GSPTDLNJGPAABNKXOSTXPFVKXHOTPT",
       "title": "Become A Travel Pro In One Easy Lesson",
       "channel": "Todd Welch",
       "image": "http://localhost:8080/images/image1.jpeg"
     },
-    "XYSRJIUVKSKYVETOBZNWWWMUIKLNVK": {
+    {
       "id": "XYSRJIUVKSKYVETOBZNWWWMUIKLNVK",
       "title": "Les Houches The Hidden Gem Of The Chamonix",
       "channel": "Cornelia Blair",
       "image": "http://localhost:8080/images/image2.jpeg"
     },
-    "MQMHEJNYHBMVVEJFIUPNCRPFZHDVYG": {
+    {
       "id": "MQMHEJNYHBMVVEJFIUPNCRPFZHDVYG",
       "title": "Travel Health Useful Medical Information For",
       "channel": "Glen Harper",
       "image": "http://localhost:8080/images/image3.jpeg"
     },
-    "EEGWKZHNLBJSUZMQGZOMFQPPVGRVXI": {
+    {
       "id": "EEGWKZHNLBJSUZMQGZOMFQPPVGRVXI",
       "title": "Cheap Airline Tickets Great Ways To Save",
       "channel": "Emily Harper",
       "image": "http://localhost:8080/images/image4.jpeg"
     },
-    "UAVLMXZHYSTUOJERCKVZBCQBSUXXWW": {
+    {
       "id": "UAVLMXZHYSTUOJERCKVZBCQBSUXXWW",
       "title": "Take A Romantic Break In A Boutique Hotel",
       "channel": "Ethan Owen",
       "image": "http://localhost:8080/images/image5.jpeg"
     },
-    "UOTWMUMOURZQVXWAXNKHDYGMOJPBHZ": {
+    {
       "id": "UOTWMUMOURZQVXWAXNKHDYGMOJPBHZ",
       "title": "Choose the Perfect Accommodations",
       "channel": "Lydia Perez",
       "image": "http://localhost:8080/images/image6.jpeg"
     },
-    "LYRGYGAUYFSGCNUUPDSIRNIFZGHHFQ": {
+    {
       "id": "LYRGYGAUYFSGCNUUPDSIRNIFZGHHFQ",
       "title": "Cruising Destination Ideas",
       "channel": "Timothy Austin",
       "image": "http://localhost:8080/images/image7.jpeg"
     },
-    "QXYHOVHOJIIVGLMYZSMTSMQDQKFKNW": {
+    {
       "id": "QXYHOVHOJIIVGLMYZSMTSMQDQKFKNW",
       "title": "Train Travel On Track For Safety",
       "channel": "Scotty Cranmer",
       "image": "http://localhost:8080/images/image8.jpeg"
     }
-  },
-  "main": {
-    "VROOLYJIBOSGYRSXTAAFDINPYFDLJQ": {
+  ],
+  [
+    {
       "id": "VROOLYJIBOSGYRSXTAAFDINPYFDLJQ",
-      "title": "Become A Travel Pro In One Easy Lesson",
-      "channel": "Todd Welch",
-      "image": "http://localhost:8080/images/image1.jpeg",
-      "description": "Luxury is something everyone deserves from time to time. Such an indulgence can make a vacation a truly rejuvenating experience. This video will focus a lot on helping the first time or inexperienced traveler head out prepared and confident in themselves.",
-      "views": "2,043,765",
-      "likes": "400,058",
-      "duration": "7:26",
+      "title": "BMX Rampage: 2021 Highlights",
+      "channel": "Red Cow",
+      "image": "http://localhost:8080/images/image0.jpeg",
+      "description": "On a gusty day in Southern Utah, a group of 25 daring mountain bikers blew the doors off what is possible on two wheels, unleashing some of the biggest moments the sport has ever seen. While mother nature only allowed for one full run before the conditions made it impossible to ride, that was all that was needed for event veteran Kyle Strait, who won the event for the second time -- eight years after his first Red Cow Rampage title",
+      "views": "1,001,023",
+      "likes": "110,985",
+      "duration": "4:01",
       "video": "https://project-2-api.herokuapp.com/stream",
-      "timestamp": 1625158995000,
+      "timestamp": 1626032763000,
       "comments": [
         {
-          "id": "ade82e25-6c87-4403-ba35-47bdff93a51c",
-          "name": "Mattie Casarez",
-          "comment": "This is exactly the kind of advice I’ve been looking for! One minute you’re packing your bags, the next you’re dancing around in the streets without a care in the world.",
+          "id": "35bba08b-1b51-4153-ba7e-6da76b5ec1b9",
+          "name": "Micheal Lyons",
+          "comment": "They BLEW the ROOF off at their last event, once everyone started figuring out they were going. This is still simply the greatest opening of an event I have EVER witnessed.",
           "likes": 0,
-          "timestamp": 1625250720000
+          "timestamp": 1628522461000
         },
         {
-          "id": "bf704c76-cba9-462e-ac0a-166315df756c",
-          "name": "Taylor Jade",
-          "comment": "Excellent tips! Another idea is to keep all of your important belongings like your passport inside a waterproof bag. Perfect for those last minute trips to the beach, trust me.",
+          "id": "091de676-61af-4ee6-90de-3a7a53af7521",
+          "name": "Gary Wong",
+          "comment": "Every time I see him shred I feel so motivated to get off my couch and hop on my board. He’s so talented! I wish I can ride like him one day so I can really enjoy myself!",
           "likes": 0,
-          "timestamp": 1625238122000
+          "timestamp": 1626359541000
         },
         {
-          "id": "ec2bec8d-ea2b-458e-9d93-b7f929a8659b",
-          "name": "Adnan Natt",
-          "comment": "Who ever knew travel could be so easy? Looking forward to getting to put this into practice when I fly away in the near future. Wish me good luck!",
+          "id": "66b7d3c7-4023-47f1-a02c-520c9ca187a6",
+          "name": "Theodore Duncan",
+          "comment": "How can someone be so good!!! You can tell he lives for this and loves to do it every day. Every time I see him I feel instantly happy! He’s definitely my favorite ever!",
           "likes": 0,
-          "timestamp": 1625177192000
+          "timestamp": 1626011132000
         }
       ]
-    },"GSPTDLNJGPAABNKXOSTXPFVKXHOTPT":{
+    },
+    {
       "id": "GSPTDLNJGPAABNKXOSTXPFVKXHOTPT",
       "title": "Become A Travel Pro In One Easy Lesson",
       "channel": "Todd Welch",
@@ -125,7 +126,7 @@
         }
       ]
     },
-    "XYSRJIUVKSKYVETOBZNWWWMUIKLNVK": {
+    {
       "id": "XYSRJIUVKSKYVETOBZNWWWMUIKLNVK",
       "title": "Les Houches The Hidden Gem Of The Chamonix",
       "channel": "Cornelia Blair",
@@ -160,7 +161,7 @@
         }
       ]
     },
-    "MQMHEJNYHBMVVEJFIUPNCRPFZHDVYG": {
+    {
       "id": "MQMHEJNYHBMVVEJFIUPNCRPFZHDVYG",
       "title": "Travel Health Useful Medical Information For",
       "channel": "Glen Harper",
@@ -195,7 +196,7 @@
         }
       ]
     },
-    "EEGWKZHNLBJSUZMQGZOMFQPPVGRVXI": {
+    {
       "id": "EEGWKZHNLBJSUZMQGZOMFQPPVGRVXI",
       "title": "Cheap Airline Tickets Great Ways To Save",
       "channel": "Emily Harper",
@@ -230,7 +231,7 @@
         }
       ]
     },
-    "UAVLMXZHYSTUOJERCKVZBCQBSUXXWW": {
+    {
       "id": "UAVLMXZHYSTUOJERCKVZBCQBSUXXWW",
       "title": "Take A Romantic Break In A Boutique Hotel",
       "channel": "Ethan Owen",
@@ -265,7 +266,7 @@
         }
       ]
     },
-    "UOTWMUMOURZQVXWAXNKHDYGMOJPBHZ": {
+    {
       "id": "UOTWMUMOURZQVXWAXNKHDYGMOJPBHZ",
       "title": "Choose the Perfect Accommodations",
       "channel": "Lydia Perez",
@@ -300,7 +301,7 @@
         }
       ]
     },
-    "LYRGYGAUYFSGCNUUPDSIRNIFZGHHFQ": {
+    {
       "id": "LYRGYGAUYFSGCNUUPDSIRNIFZGHHFQ",
       "title": "Cruising Destination Ideas",
       "channel": "Timothy Austin",
@@ -328,7 +329,7 @@
         }
       ]
     },
-    "QXYHOVHOJIIVGLMYZSMTSMQDQKFKNW": {
+    {
       "id": "QXYHOVHOJIIVGLMYZSMTSMQDQKFKNW",
       "title": "Train Travel On Track For Safety",
       "channel": "Scotty Cranmer",
@@ -356,5 +357,5 @@
         }
       ]
     }
-  }
-}
+  ]
+]
